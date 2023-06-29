@@ -1,5 +1,6 @@
 {
   "private": true,
+  "description": "test diferent frameworks",
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
